@@ -13,6 +13,12 @@ header {
     font-size: 28px;
 }
 
+.subtitle {
+    font-size: 16px;
+    color: #ffdd66;  /* You can adjust this color as needed */
+    margin-top: 5px;
+}
+
 main {
     padding: 20px;
     max-width: 800px;
